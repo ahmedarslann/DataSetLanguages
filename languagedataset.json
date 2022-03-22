@@ -1,0 +1,192 @@
+[
+  {
+    "name": "PYTHON",
+    "capital": "Python ile  Web geliştirme - Yapay zekâ ve makine öğrenimi - Veri analizi - Oyun geliştirme - Robotik uygulamaları yapabiliriz.",
+    "region": "Python, kolay okunabilir ve anlaşılabilir bir programlama dilidir.",
+    "currency": "IDLE, Spyder, Jupyter Notebook, Pycharm...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/python.png",
+    "language": "1-'Ekranda “Merhaba Dünya” yazdıran Python Örneği': print("Merhaba Dünya")'
+	         2-'Kullanıcının İsmini Alarak Merhaba (kullanıcı ismi) Yazdıran Python Örneği': isim = input('İsminizi Girin : ')
+                    print("Merhaba "+isim)' 
+		 3-'1-100 Arası Sayıları Ekranda Listeleyen Python Örneği: for i in range(1,101)':
+                    print(i)' "
+  },
+  {
+    "name": "C++",
+    "capital": "Sürücü yazılımları, Oyun, Görüntü işleme, İşletim sistemleri gibi hızın önemli olduğu yerlerde kullanılır.",
+    "region": "C'yi kapsayan ve çok paradigmalı, yaygın olarak kullanılan, genel amaçlı bir programlama dilidir.",
+    "currency": "Visual Studio Code, Eclipse, CodeLite, DevC++, CodeWarrior..",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/cplusplus.png",
+    "language": "1-'Kullanıcıdan iki sayı girmesini isteyen ve girilen sayıların farkını bularak C++ kodları': 
+		 #include <iostream>
+		 #include<stdlib.h>
+		 #include <cmath>
+		 using namespace std;
+ 		 int main()
+			{ 
+			   setlocale(LC_ALL,"Turkish"); //Türkçe karakter
+			   int sayi1,sayi2,fark;
+			   cout<<"1. Sayı : ";
+			   cin>>sayi1;
+			   cout<<"2. Sayı : ";
+			   cin>>sayi2;
+			   fark=sayi1-sayi2;
+			   cout<<"Fark: "<<toplam;'
+			}"
+  },
+  {
+    "name": "C#",
+    "capital": "Web Web Uygulamaları (Asp.NET), Mobil uygulamalar, Web servisleri uygulamaları, Konsol uygulamaları, Oyun tasarlama yapabiliriz.",
+    "region": "C#, Microsoft tarafından geliştirilen bir programlama dilidir.",
+    "currency": "Microsoft Visual Studio, Unity...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/CShape.png",
+    "language": "1-'Ekranda Merhaba Dünya yazdıran C# Console Örneği': 
+		  static void Main(string[] args)
+        		{
+            		   Console.WriteLine("Merhaba Dünya.");
+            		   Console.ReadKey();
+        		}'
+		 2-'Ekranda Kullanıcının Adı ve Soyadını isteyerekprogram': 
+     		  static void Main(string[] args)
+        		{
+           		  string ad,soyad;
+            		  Console.Write("Adınız : ");
+            		  ad = Console.ReadLine();
+            		  Console.Write("Soyadınız : ");
+            		  soyad = Console.ReadLine();
+            		  Console.WriteLine("Adı : "+ad);
+            		  Console.WriteLine("Soyadı : "+soyad);
+            		  Console.ReadKey();
+        		}'"
+  },
+  {
+    "name": "HTML",
+    "capital": "HTML kullanım amacı web siteleri için görsel, yazı ve video gibi içeriklerin konumlandırılmasını sağlamaktır. Günlük hayatımızda gezinmiş olduğumuz web sitelerin tümü HTML yapısını kullanmaktadır.",
+    "region": "HTML web sayfalarını oluşturmak için kullanılan standart faktörünü ifade eden metin işaretleme dilidir. Bu terim programlama dili değildir.",
+    "currency": "Brackets, Visual Studio Code,Notepad, Notepad++, Sublime Text...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/html5.png",
+    "language": "1-'<!DOCTYPE html>:Bütün HTML belgesi bu etiket ile başlamak zorundadır. BU sayfanın HTML5 formatında kodlandığını gösterir.
+
+		    <html>:Tüm HTML etiketleri bu etiket arasında tanımlanır. Ayrıca KÖK etiket olarak da bilinir.
+
+		    <head> :Sayfa dili, başlığı ve gerekli düzenlemelere ait etiketlerin yer aldığı etikettir.
+
+		    <body> : Görülebilir tüm parçaların eklendiği etikettir.
+
+		   <title> : Sitenin başlığını tanımak için kullanılır. <head> etiketleri arasında kullanılır.
+		2-'Standart bir HTML belgesi Türkçe karakter desteğini içeren en basit şekli ile aşağıdaki gibi tanımlanır':
+		   <html>
+			<head>
+				<meta charset="utf-8">
+				<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+				<title>Yazılım Kodlama Örneği</title>
+			</head>
+			<body>
+	
+			</body>
+		  </html>'"
+  },
+  {
+    "name": "CSS",
+    "capital": "CSS bir HTML sayfasının nasıl görüntüleneceğini tarif eder.",
+    "region": "CSS bir web sitesinin daha çok göze hitap eden kısımlarını düzenlemeyi sağlıyor. Renkler, ara yüz düzenlemeleri, fontlar ve bunlara bağlı birçok görsel tasarım unsurunu modifiye etmeye yarıyor.",
+    "currency": "Brackets, Visual Studio Code,Notepad, Notepad++, Sublime Text...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/css.png",
+    "language": "
+		1-' 
+		<style>  
+   	     	div{
+        	color:white;
+        	background-color: red;
+        	width: 200px;
+        	height: 150px;
+       	 	box-shadow: blue 5px 5px 10px;
+        	text-align: center;
+        	line-height: 150px; /* height ile aynı girilir*'
+    		}
+		</style>'"
+  },
+  {
+    "name": "JAVASCRIPT",
+    "capital": "Web sitelerinin fonksiyonel özelliklerini geliştirirken, aynı zamanda performansının artmasını sağlar.",
+    "region": "Javascript, internet sitelerini eğlenceli ve işlevsel hale getiren en önemli web yazılım dilidir.",
+    "currency": "Atom, Brackets, Visual Studio Code, Notepad++, Sublime Text...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/js.png",
+    "language": "1-'Basit bir şekilde console.log yazarak console ekranında yazıyı gösterdik'
+		 <script>
+		 console.log("bu bir yazıdır");
+		 </script>'
+		2-'<script>
+		var dizi=["ali","veli","ahmet"];
+		console.log(dizi);
+		alert(dizi);
+		</script>'"
+  },
+  {
+    "name": "PASCAL",
+    "capital": "Pascal dili daha çok matematik işlemleri ve sayısal işlemlerde kullanılmaktadır.",
+    "region": "Pascal dili öğrencilere bilgisayar programlamayı öğreten ve çeşitli versiyonları bugün hala yaygın olarak kullanılmaya devam eden programlama dilidir.",
+    "currency": "Free Pascal, Dev-Pascal..",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/pascal.png",
+    "language": "1-'Klavyeden girilen iki sayının yerini değiştiren program': 
+		uses crt;
+		var
+		a,b,degistirme:integer;
+		begin
+		write(‘1. sayıyı gir:’);readln(a);
+		write(‘2. sayıyı gir:’);readln(b);
+		degistir:=b;	
+		b:=a;
+		a:=degistir;
+		writeln(‘1.sayı:’,a);
+		writeln(‘2.sayı:’,b);
+		readkey;
+		end.."
+  },
+  {
+    "name": "JAVA",
+    "capital": "Java yüklemediğinizde çalıştıramayacağınız bir çok uygulama ve web sitesi mevcut ve her geçen gün bunların sayıları artıyor. Java hızlı, güvenli ve güvenilirdir.",
+    "region": "Java, mobil ve gömülü uygulamalar, oyunlar, web tabanlı içerik ve kurumsal yazılım geliştirme ve dağıtımı yapar.",
+    "currency": "Eclipse, Netbeans, JCreator, Processing IDE, DrJava...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/java.png",
+    "language": "1-'Java İki Sayının Toplamı: 
+		    public class JavaOrnek {
+    		    public static void main(String[] args) {  
+        	    int sayi1 = 10;
+        	    int sayi2 = 20; 
+        	    int toplam = sayi1 + sayi2;
+        	    System.out.println("Sayıların Toplamı: " + toplam);
+    		}}'"
+  },
+  {
+    "name": "KOTLİN",
+    "capital": "Android uygulaması yapılabilir.",
+    "region": "Kotlin, mevcut durumdaki Java kütüphanelerini kullanarak uygulama geliştirmeye olanak sağlar.",
+    "currency": "Android Studio",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/Kotlin.png",
+    "language": "1-'for döngüsü kullanarak bir sayının Faktöriyelini bulun: 
+		 fun main(args: Array<String>) {
+    		 val num = 10
+    		 var factorial: Long = 1
+    		 for (i in 1..num) {
+        	 factorial *= i.toLong()
+    		 }
+    		 println("Factorial of $num = $factorial")'}"
+  },
+  {
+    "name": "FLUTTER",
+    "capital": "Android, iOS, Windows, Mac, Linux ve web için uygulamalar geliştirmek için kullanılıyor.",
+    "region": "Flutter, Google tarafından oluşturulan açık kaynaklı bir UI yazılım geliştirme kitidir.",
+    "currency": " Android Studio, Visual Studio Code ve IntelliJ Idea",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/flutter.png",
+    "language": "1-'main(){
+		    print("Hello World!")},
+		 2-'void main() {
+  		    final String ad = "Emre";
+                    final String soyad = "Akçadağ";
+  		    const PI = 3.141592;
+  		    print(ad + ' ' + soyad);
+  		    print(PI);'
+       			        }"
+  } 
+]
