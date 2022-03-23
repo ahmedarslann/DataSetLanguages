@@ -1,0 +1,82 @@
+[
+  {
+    "name": "PYTHON",
+    "capital": "Python ile  Web geliştirme - Yapay zekâ ve makine öğrenimi - Veri analizi - Oyun geliştirme - Robotik uygulamaları yapabiliriz.",
+    "region": "Python, kolay okunabilir ve anlaşılabilir bir programlama dilidir.",
+    "currency": "IDLE, Spyder, Jupyter Notebook, Pycharm...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/python.png",
+    "language": ""
+  },
+  {
+    "name": "C++",
+    "capital": "Sürücü yazılımları, Oyun, Görüntü işleme, İşletim sistemleri gibi hızın önemli olduğu yerlerde kullanılır.",
+    "region": "C'yi kapsayan ve çok paradigmalı, yaygın olarak kullanılan, genel amaçlı bir programlama dilidir.",
+    "currency": "Visual Studio Code, Eclipse, CodeLite, DevC++, CodeWarrior..",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/cplusplus.png",
+    "language": ""
+  },
+  {
+    "name": "C#",
+    "capital": "Web Web Uygulamaları (Asp.NET), Mobil uygulamalar, Web servisleri uygulamaları, Konsol uygulamaları, Oyun tasarlama yapabiliriz.",
+    "region": "C#, Microsoft tarafından geliştirilen bir programlama dilidir.",
+    "currency": "Microsoft Visual Studio, Unity...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/CShape.png",
+    "language": ""
+  },
+  {
+    "name": "HTML",
+    "capital": "HTML kullanım amacı web siteleri için görsel, yazı ve video gibi içeriklerin konumlandırılmasını sağlamaktır. Günlük hayatımızda gezinmiş olduğumuz web sitelerin tümü HTML yapısını kullanmaktadır.",
+    "region": "HTML web sayfalarını oluşturmak için kullanılan standart faktörünü ifade eden metin işaretleme dilidir. Bu terim programlama dili değildir.",
+    "currency": "Brackets, Visual Studio Code,Notepad, Notepad++, Sublime Text...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/html5.png",
+    "language": "'"
+  },
+  {
+    "name": "CSS",
+    "capital": "CSS bir HTML sayfasının nasıl görüntüleneceğini tarif eder.",
+    "region": "CSS bir web sitesinin daha çok göze hitap eden kısımlarını düzenlemeyi sağlıyor. Renkler, ara yüz düzenlemeleri, fontlar ve bunlara bağlı birçok görsel tasarım unsurunu modifiye etmeye yarıyor.",
+    "currency": "Brackets, Visual Studio Code,Notepad, Notepad++, Sublime Text...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/css.png",
+    "language": ""
+  },
+  {
+    "name": "JAVASCRIPT",
+    "capital": "Web sitelerinin fonksiyonel özelliklerini geliştirirken, aynı zamanda performansının artmasını sağlar.",
+    "region": "Javascript, internet sitelerini eğlenceli ve işlevsel hale getiren en önemli web yazılım dilidir.",
+    "currency": "Atom, Brackets, Visual Studio Code, Notepad++, Sublime Text...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/js.png",
+    "language": ""
+  },
+  {
+    "name": "PASCAL",
+    "capital": "Pascal dili daha çok matematik işlemleri ve sayısal işlemlerde kullanılmaktadır.",
+    "region": "Pascal dili öğrencilere bilgisayar programlamayı öğreten ve çeşitli versiyonları bugün hala yaygın olarak kullanılmaya devam eden programlama dilidir.",
+    "currency": "Free Pascal, Dev-Pascal..",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/pascal.png",
+    "language": ""
+  },
+  {
+    "name": "JAVA",
+    "capital": "Java yüklemediğinizde çalıştıramayacağınız bir çok uygulama ve web sitesi mevcut ve her geçen gün bunların sayıları artıyor. Java hızlı, güvenli ve güvenilirdir.",
+    "region": "Java, mobil ve gömülü uygulamalar, oyunlar, web tabanlı içerik ve kurumsal yazılım geliştirme ve dağıtımı yapar.",
+    "currency": "Eclipse, Netbeans, JCreator, Processing IDE, DrJava...",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/java.png",
+    "language": ""
+  },
+  {
+    "name": "KOTLİN",
+    "capital": "Android uygulaması yapılabilir.",
+    "region": "Kotlin, mevcut durumdaki Java kütüphanelerini kullanarak uygulama geliştirmeye olanak sağlar.",
+    "currency": "Android Studio",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/Kotlin.png",
+    "language": ""
+  },
+  {
+    "name": "FLUTTER",
+    "capital": "Android, iOS, Windows, Mac, Linux ve web için uygulamalar geliştirmek için kullanılıyor.",
+    "region": "Flutter, Google tarafından oluşturulan açık kaynaklı bir UI yazılım geliştirme kitidir.",
+    "currency": " Android Studio, Visual Studio Code ve IntelliJ Idea",
+    "flag": "https://raw.githubusercontent.com/ahmedarslann/DataSetLanguages/main/flutter.png",
+    "language": ""
+  } 
+]
